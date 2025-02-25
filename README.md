@@ -36,6 +36,4 @@ Welcome to my Github page! I am a passionate and driven junior at UNCC who loves
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ajblocker"><img src="https://github-readme-stats.vercel.app/api?username=ajblocker&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ajblocker's GitHub stats" /></a>
-<a href="http://www.github.com/ajblocker"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajblocker&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/ajblocker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajblocker&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
